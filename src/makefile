@@ -11,6 +11,9 @@ main: ## Compiling the project :)
 run: ## Run the project ;)
 	runhaskell Main.hs
 
+test: ## Run some tests
+	runhaskell Test.hs
+
 info: ## Display project description
 	@echo "$(NAME) v$(VERSION)"
 	@echo "$(COPYRIGHT)"
