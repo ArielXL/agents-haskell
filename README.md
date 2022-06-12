@@ -54,4 +54,4 @@ El informe de trabajo contiene los siguientes elementos:
 2. [Real World Haskell](./doc/Real World Haskell.pdf)
 3. [Orientación](./doc/Proyecto Simulacion Prolog.pdf)
 4. [Haskell Programming from First Principles](./doc/Haskell Programming from First Principles.pdf)
-5. [Learn You a Haskell for Great Good! A Beginner’s](./doc/Learn You a Haskell for Great Good! A Beginner’s.pdf)
+5. [Learn You a Haskell for Great Good! A Beginner’s](./doc/Learn You a Haskell for Great Good A Beginners.pdf)
